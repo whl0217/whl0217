@@ -23,7 +23,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="25" /></a>
 
 <br/>
-
 🌱 I’m currently learning ...
 
 <br/>
